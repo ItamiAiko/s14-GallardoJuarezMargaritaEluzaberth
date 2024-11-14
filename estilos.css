@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eef2f3;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+h1 {
+    color: #333;
+}
+
+.servicio {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.servicio h2 {
+    color: #490303;
+}
+
+.descripcion {
+    font-size: 16px;
+    color: #555;
+}
+
+.mostrar-mas {
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: #490303;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.mostrar-mas:hover {
+    background-color: #490303;
+}
+
+.info-adicional {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #333;
+}
